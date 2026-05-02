@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../WS-101_WEBSITE/images/logo.webp" alt="logo" width="150" height="auto">
+  <img src="images/logo.webp" alt="logo" width="150" height="auto">
 </p>
 
 <h1 align="center">Master Muscle</h1>
